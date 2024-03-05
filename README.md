@@ -42,7 +42,7 @@ This Dashboard shows the main points but is not limited to the problem stated ab
 ---
 
 ## Features
-- The slicers on products, months, and cities show the interactiveness of the dashboard making changes on every chart,
+- The slicers on product-categories and date show the interactiveness of the dashboard making changes on every chart,
 - This indicates and displays pieces of information on the particular charts referred to.
 ---
 ## Analysis:
