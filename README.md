@@ -20,30 +20,26 @@ Problem Statement
 
 ## Skills/Concepts demonstrated:
 
-The following Ms.Excel tools were incorporated:
+The following PowerBI tools were utilized:
 
 - Data importation, 
 - Sorting/arrangement,
 - Power-Query,
 - DAX Formula/Measures,
-- Slicers, 
-- Dashboard Design.
+- Dashboard Design,
+- Slicers
 
-## Data Cleaning:
+## Data Cleaning/:
 
-Using data cleaning and formatting to change and make necessary cleaning of the dataset to prepare it for proper analysis. 
-![](raw-file.png)
----
+Using conditional column in Power-query to generate the total sales column and trim columns to clear out bubble spaces, make necessary cleaning of the dataset to prepare it for proper analysis. 
 
-Adjusted model  
-We have 20 columns that show day-to-day activities in the supermarket.
-![](Power_query.png)
+![](Screenshot 2024-03-03 022729.png)
 ---
 
 ## Visualization:
-This Dashboard indicates and shows the main points but is not limited to the problem stated above, also denoting the sales over the First quarter of the year. This also gives insights on the chart that Friday is the most productive day of the week.
+This Dashboard shows the main points but is not limited to the problem stated above, also denoting the sales from Jan-June.
 
-![](Dashboard.png)
+![](Screenshot 2024-01-30 104120.png)
 ---
 
 ## Features
