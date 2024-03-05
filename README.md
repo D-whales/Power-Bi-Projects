@@ -33,13 +33,12 @@ The following PowerBI tools were utilized:
 
 Using conditional column in Power-query to generate the total sales column and trim columns to clear out bubble spaces, make necessary cleaning of the dataset to prepare it for proper analysis. 
 
-![](Coffee Dashboard.png)
 ---
 
 ## Visualization:
 This Dashboard shows the main points but is not limited to the problem stated above, also denoting the sales from Jan-June.
 
-![](Screenshot 2024-01-30 104120.png)
+![](Coffee-Dashboard.png)
 ---
 
 ## Features
@@ -48,24 +47,20 @@ This Dashboard shows the main points but is not limited to the problem stated ab
 ---
 ## Analysis:
 
-### Customer History:
-All stores has 13,045 customers in total of which 49% are normal customers and 51% members.
-
 ### Product Catalog:
-There are 8 product lines in the stores but the highest sold 6 are represented on the dashboard.
-Also to note that Food and beverages have the highest sales.
+There are 9 product categories and 29 types of products in all the stores but the highest sold 8 are represented on the dashboard.
+Also to note that Coffee and Chocolates have the highest sales.
 
 ### Transaction History:
-There were 1.9M orders in total over the first quarter of the year.
+There were 185,459k orders in total from Jan-June 2023.
 
 ### Store: 
-There are 3 stores/branches currently running and Store A has the highest sales. 
+There are 3 stores currently operating and Hell's Kitchen Store has the highest sales. 
 
 ## Conclusion and Recommendations:
-The first 5 product line to finish are the ones with the highest sales
-The city with the highest sales is Yangon.
-Branch A is more on sales than other stores.
+Coffee and Chocolate are the most in demand at each store.
+Hell's Kitchen has the highest sales and generates more revenue but just a slight difference from other stores.
 
 #Recommendation: 
-The first 5 products should be restock as soon as possible based on weekly sales so the store won't run out of the products,
-Both Yangon City and Branch (A) should be paid more attention to for redistribution
+The coffee and chocolate categories should be restocked as soon as possible based on weekly sales so the store won't run out of the products,
+All  should be paid more attention to for redistribution
