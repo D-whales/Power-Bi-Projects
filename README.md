@@ -1,6 +1,5 @@
 # Coffee Shop Sales Analysis
 
-![](coffee-shop-1.png)
 --- 
 ## INTRODUCTION 
 
@@ -8,6 +7,7 @@ This is a PowerBI project on sales analysis of an imaginary Coffee store called 
 The project is to analyze and derive insights to answer crucial business questions and help the store make data-driven decisions.
 **_Disclaimer_**: _All datasets and reports do not represent any company, store, institution, or country, but just a dummy dataset to demonstrate the capabilities of Excel._
 
+![](coffee-shop-1.png)
 ---
 ## Problem Statement: 
 
@@ -33,7 +33,7 @@ The following PowerBI tools were utilized:
 
 Using conditional column in Power-query to generate the total sales column and trim columns to clear out bubble spaces, make necessary cleaning of the dataset to prepare it for proper analysis. 
 
-![](Screenshot 2024-03-03 022729.png)
+![](Coffee Dashboard.png)
 ---
 
 ## Visualization:
