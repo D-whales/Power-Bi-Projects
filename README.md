@@ -5,7 +5,7 @@
 
 This is a PowerBI project on sales analysis of an imaginary Coffee store called **Coffee Shop**.
 The project is to analyze and derive insights to answer crucial business questions and help the store make data-driven decisions.
-**_Disclaimer_**: _All datasets and reports do not represent any company, store, institution, or country, but just a dummy dataset to demonstrate the capabilities of Excel._
+**_Disclaimer_**: _All datasets and reports do not represent any company, store, institution, or country, but just a dummy dataset to demonstrate the capabilities of POWER BI._
 
 ![](coffee-shop-1.png)
 ---
