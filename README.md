@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis
+# Coffee Shop Sales Analysis Design
 
 --- 
 ## INTRODUCTION 
